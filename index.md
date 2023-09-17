@@ -10,7 +10,7 @@ Dr. Saifedean Ammous’ mesterværk “The Bitcoin Standard” er nu endeligt ud
 
 > Denne bog er skrevet for at hjælpe læseren med at forstå økonomien bag bitcoin, og hvordan bitcoin tjener som den digitale udgave af de mange teknologier, der historisk har været brugt til at udføre penges funktioner. Denne bog er ikke en reklame eller opfordring til at investere i bitcoin. Langt fra.
 
-— _Uddrag fra forfatterens prolog._
+— _Uddrag fra forfatterens prolog._ [Læs hele prologen her](/prolog/).
 
 **Lanceringstilbud, få gratis levering!**
 -----------------------------------------
@@ -23,12 +23,14 @@ Bogen kan også findes hos [Konsensus Network](https://bitcoinbook.shop/products
 
 > _Bitcoinstandarden_ bør være påkrævet læsning for alle i nutidens samfund. Den giver en kortfattet og sammenhængende fortælling om monetær teori, historien om penge, praktisk økonomi, og politisk påvirkning af erhvervsliv, kultur og økonomi.
 
-— _Uddrag Fra forordet af Michael Saylor, CEO for MicroStrategy._ 
+— _Uddrag Fra forordet af Michael Saylor, CEO for MicroStrategy._  [Læs hele forordet her](/forord/).
 
 Hvorfor oversætte bogen til dansk?
 ----------------------------------
 
 Efter at have læst _Bitcoinstandarden_ på engelsk, forstod vi, hvorfor bitcoin er helt speciel og værd at bruge tid på. For at flere kunne få glæde af dens budskab, valgte vi at oversætte den til dansk.
+Læs mere [her](/om/).
+
 
 Bogen er oversat af [Rasmus Hansen](https://twitter.com/rasmushansen) & [Pierre Vendelboe](https://twitter.com/pierrevendelboe).
 

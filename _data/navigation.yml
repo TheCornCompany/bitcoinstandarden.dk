@@ -1,5 +1,11 @@
 main:
   - title: "Danske Bitcoin Links"
     url: /danske-bitcoin-links/
+  - title: "Prolog"
+    url: /prolog/
+  - title: "Forord"
+    url: /forord/
+  - title: "Om"
+    url: /om/
   - title: "Kontakt"
     url: /kontakt/
