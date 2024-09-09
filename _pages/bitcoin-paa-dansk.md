@@ -16,7 +16,7 @@ permalink: /danske-bitcoin-links/
 
 [Enogtyve gruppe på Telegram](https://t.me/enogtyvedk) - dansktalende gruppe hvor der diskuteres Bitcoin - alle er velkomne uanset niveau
 
-[Enogtyve på YouTube]([https://t.me/enogtyvedk](https://www.youtube.com/@enogtyvedanmark) - videoer og podcasts om Bitcoin på dansk
+[Enogtyve på YouTube](https://www.youtube.com/@enogtyvedanmark) - videoer og podcasts om Bitcoin på dansk
 
 [Bitcoinbegreber](https://github.com/Enogtyve/Ordliste) - liste af de vigtigste begreber indenfor Bitcoin og deres navn på både dansk og engelsk
 
