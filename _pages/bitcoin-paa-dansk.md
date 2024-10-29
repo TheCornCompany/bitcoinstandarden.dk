@@ -12,6 +12,8 @@ permalink: /danske-bitcoin-links/
 
 ## Links til dansk materiale
 
+[SHOP21.DK podcast](https://fountain.fm/show/xcUNIu7nsEhsSwOtQOpU) - en dansk podcast om Bitcoin, samfund og frihed
+
 [Enogtyve.org](https://www.enogtyve.org/) - en platform for danskere med interesse for Bitcoin
 
 [Enogtyve gruppe på Telegram](https://t.me/enogtyvedk) - dansktalende gruppe hvor der diskuteres Bitcoin - alle er velkomne uanset niveau
