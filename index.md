@@ -3,7 +3,7 @@ layout: single
 title: ''
 ---
 
-[![](img/bs_logo-1.png)](https://www.helminsorgenfri.dk/vare/bitcoinstandarden)
+[![](img/bs_logo-1.png)](https://shop21.dk/vare/bitcoinstandarden/)
 
 Dr. Saifedean Ammous’ mesterværk “The Bitcoin Standard” er nu endeligt ude på dansk. Den engelske version er **#1 Bestseller** på Amazon.com med en rating på _4.7 ud af 5_.
 
@@ -12,14 +12,12 @@ Dr. Saifedean Ammous’ mesterværk “The Bitcoin Standard” er nu endeligt ud
 
 — _Uddrag fra forfatterens prolog._ [Læs hele prologen her](/prolog/).
 
-**Lanceringstilbud, få gratis levering!**
+**Gratis levering!**
 -----------------------------------------
 
-Køb bogen hos forlaget _[Helmin & Sorgenfri](https://www.helminsorgenfri.dk/vare/bitcoinstandarden)_**,** og få den leveret **gratis** til din postkasse. Du kan betale med mobilepay eller betalingskort.
+Køb bogen hos _[SHOP21.DK](https://shop21.dk/vare/bitcoinstandarden/)_**,** hvor Du kan betale med Bitcoin, mobilepay eller betalingskort.
 
-Bogen kan også findes hos [Konsensus Network](https://bitcoinbook.shop/products/bitcoinstandarden), i din lokale boghandler, eller bestilles via [Amazon](http://amazon.com/), hvis du befinder dig uden for Danmark.
-
-[![](img/bitcoinstandarden-book.png)](https://www.helminsorgenfri.dk/vare/bitcoinstandarden)
+[![](img/bitcoinstandarden-book.png)](https://shop21.dk/vare/bitcoinstandarden/)
 
 > _Bitcoinstandarden_ bør være påkrævet læsning for alle i nutidens samfund. Den giver en kortfattet og sammenhængende fortælling om monetær teori, historien om penge, praktisk økonomi, og politisk påvirkning af erhvervsliv, kultur og økonomi.
 
@@ -32,7 +30,7 @@ Efter at have læst _Bitcoinstandarden_ på engelsk, forstod vi, hvorfor bitcoin
 Læs mere [her](/om/).
 
 
-Bogen er oversat af [Rasmus Hansen](https://twitter.com/rasmushansen) & [Pierre Vendelboe](https://twitter.com/pierrevendelboe).
+Bogen er oversat af [Rasmus Hansen](https://twitter.com/rasmushansen) & Pierre Vendelboe.
 
 Mere om bitcoin på dansk
 ------------------------
